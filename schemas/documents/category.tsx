@@ -23,7 +23,7 @@ export default {
     {
       name: 'coverImage',
       title: 'Cover Image',
-      type: 'customImage',
+      type: 'image',
     },
     {
       name: 'description',

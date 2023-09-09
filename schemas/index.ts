@@ -22,7 +22,7 @@ import project from './documents/project';
 // import object
 import richText from './objects/richText';
 import normalText from './objects/normalText';
-import customImage from './objects/customImage';
+// import customImage from './objects/customImage';
 import customCode from './objects/customCode';
 
 export const schemaTypes = [
@@ -47,7 +47,7 @@ export const schemaTypes = [
     // object schemas
     normalText,
     richText,
-    customImage,
+    // customImage,
     customCode,
 
 ]

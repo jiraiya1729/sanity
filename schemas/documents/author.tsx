@@ -23,7 +23,7 @@ export default {
     {
       name: 'profileImage',
       title: 'Profile Image',
-      type: 'customImage',
+      type: 'image',
     },
     {
       name: 'bio',

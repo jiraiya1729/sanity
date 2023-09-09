@@ -46,7 +46,7 @@ export default {
     {
       title: 'Cover Image',
       name: 'coverImage',
-      type: 'customImage',
+      type: 'image',
     },
     {
       title: 'Excerpt',
